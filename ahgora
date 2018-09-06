@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Fill your information here \/
 ACCOUNT=''
 PASSWORD=''
 IDENTITY=''
